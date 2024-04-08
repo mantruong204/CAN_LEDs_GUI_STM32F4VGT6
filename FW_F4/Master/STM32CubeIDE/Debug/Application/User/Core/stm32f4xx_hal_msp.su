@@ -1,0 +1,5 @@
+D:/231/HTDKN/test_UART/test_UART/Core/Src/stm32f4xx_hal_msp.c:67:6:HAL_MspInit	16	static
+D:/231/HTDKN/test_UART/test_UART/Core/Src/stm32f4xx_hal_msp.c:89:6:HAL_CAN_MspInit	48	static
+D:/231/HTDKN/test_UART/test_UART/Core/Src/stm32f4xx_hal_msp.c:130:6:HAL_CAN_MspDeInit	16	static
+D:/231/HTDKN/test_UART/test_UART/Core/Src/stm32f4xx_hal_msp.c:162:6:HAL_UART_MspInit	48	static
+D:/231/HTDKN/test_UART/test_UART/Core/Src/stm32f4xx_hal_msp.c:238:6:HAL_UART_MspDeInit	16	static
